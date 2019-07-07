@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-num = [0.7 , 2]
-den = [1 , 1.5 , 2]
+num = [24]
+den = [1 , 17 , 32 , 30]
 
 sys = control.TransferFunction(num,den)
 
